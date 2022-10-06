@@ -45,7 +45,7 @@ Print the accuracy
 ## PROGRAM:
 ```py
 
-```import numpy as np
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
@@ -118,6 +118,7 @@ plt.plot(range(1, len(classifier.misclassified_samples) + 1),
 plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
+```
 
 ## OUTPUT:
 ![s1](https://user-images.githubusercontent.com/113674204/194217064-819148d1-38e3-481f-bad6-16af48cf6974.png)
