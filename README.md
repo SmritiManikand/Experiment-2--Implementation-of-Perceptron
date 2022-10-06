@@ -118,3 +118,11 @@ plt.plot(range(1, len(classifier.misclassified_samples) + 1),
 plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
+
+## OUTPUT:
+![s1](https://user-images.githubusercontent.com/113674204/194217064-819148d1-38e3-481f-bad6-16af48cf6974.png)
+![s2](https://user-images.githubusercontent.com/113674204/194217192-7535ac36-b59e-4fac-b112-be39e6df0653.png)
+
+
+## RESULT:
+Thus,a perceptron for classification using Python is executed successfully
