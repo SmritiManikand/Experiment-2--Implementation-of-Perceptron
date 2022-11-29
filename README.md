@@ -126,4 +126,4 @@ plt.show()
 
 
 ## RESULT:
-Thus,a perceptron for classification using Python is executed successfully
+Thus,a perceptron for classification using Python is executed successfully. 
